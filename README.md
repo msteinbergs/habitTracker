@@ -12,8 +12,8 @@ Serve built static files
 
 # Docker:
 Build image
-1. "docker build . -t dockerized-react"
+1. "docker build . -t habit-tracker"
 
 Run app in Docker container
 
-2. "docker run -p 3000:80 -d dockerized-react"
+2. "docker run -p 3000:80 -d habit-tracker"
